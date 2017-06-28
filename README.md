@@ -4,8 +4,12 @@ https://magenta.as/a-month-of-hello-world-496a92b6cec3
 https://github.com/hagata/30daysofHelloWorld
 
 X Go
-Hapi
-Koa
+X Hapi
+X Koa
+Python
+Scala
+Lisp
+Clojure
 Hug
 Django
 Architect
@@ -33,8 +37,8 @@ Swift3
 Total JS
 Mo.js
 MicroPython, Feather, Si7021
-Lisp
-Scala
-Python
+
+
+
 
 
